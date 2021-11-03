@@ -32,3 +32,7 @@
    *.ini
    *.bak
    *.STM32_Demo/project/test/mdk
+*.d
+*.o
+*.crf
+STM32_Demo/projects/test/mdk/debug
